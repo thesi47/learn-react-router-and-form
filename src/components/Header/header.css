@@ -1,0 +1,9 @@
+nav a{
+    text-decoration: none;
+    color: #415acaff;
+    font-size: 20px;
+    margin-right: 20px;
+}
+a.active {
+    font-weight: 500;
+    color: var(--text-h);
